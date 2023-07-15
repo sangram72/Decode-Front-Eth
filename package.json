@@ -40,7 +40,5 @@
   "devDependencies": {
     "gh-pages": "^5.0.0"
   },
-  "homepage":{
-  "http://{github-sangram72}.github.io/{Decode-Front-Eth}"
-  }
+  "homepage":"http://{github-sangram72}.github.io/{Decode-Front-Eth}"
 }
